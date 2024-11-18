@@ -1,3 +1,8 @@
 h1 {
     color: blue;
+    font-family: "Monaco", monospace;
+}
+
+ul {
+    font-family: "Monaco", monospace;
 }
